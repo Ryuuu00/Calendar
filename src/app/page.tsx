@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>sup jabez here!d</h1>
+    <h1>sup jabez here!</h1>
   );
 }
