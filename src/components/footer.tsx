@@ -20,9 +20,9 @@ export default function Footer() {
     
     return (
         <footer>
-            <div className="grid grid-cols-2 border-t border-gray-300">
-                <p className="text-center">{month} {date}</p>
-                <p className="text-center">© 2026 Just 4</p>
+            <div className="grid grid-cols-3 border-t border-gray-300 pt-2">
+                <p className="grid">{month} {date}</p>
+                <p className="text-center center">© 2026 Just 4. <br /> All Rights Reserved.</p>
             </div>
 
         </footer>
