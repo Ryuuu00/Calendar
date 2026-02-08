@@ -1,5 +1,7 @@
 "use client";
 import { Geist, Geist_Mono } from "next/font/google";
+import "../../node_modules/tw-animate-css/dist/tw-animate.css";
+import "./globals.css";
 import Footer from "@/components/footer";
 import Header from "@/components/header";
 
